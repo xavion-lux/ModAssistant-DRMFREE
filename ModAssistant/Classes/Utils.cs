@@ -389,6 +389,11 @@ namespace ModAssistant
             return null;
         }
 
+                public static bool IsVoid()
+        {
+return true;
+        }
+
         public static byte[] StreamToArray(Stream input)
         {
             byte[] buffer = new byte[16 * 1024];
