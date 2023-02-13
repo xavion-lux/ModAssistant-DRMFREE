@@ -391,7 +391,7 @@ namespace ModAssistant
 
                 public static bool IsVoid()
         {
-return true;
+return false;
         }
 
         public static byte[] StreamToArray(Stream input)
