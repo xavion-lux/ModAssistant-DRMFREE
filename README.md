@@ -2,7 +2,7 @@
 [![Download here!](https://cdn.assistant.moe/images/ModAssistant/Icons/Download.svg)](https://github.com/mitch030504/ModAssistant-DRMFREE/releases/latest)
 
 
-This is a modified version that removes any checks for "dumps"(dunno how strict github is)
+This is a modified version that removes any checks for "dumps"(dunno how strict github is).
 
 Mod Assistant is a PC mod installer for Beat Saber. It uses mods from [BeatMods](https://beatmods.com/).
 
